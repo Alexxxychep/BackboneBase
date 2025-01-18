@@ -1,0 +1,5 @@
+name: BackboneHub
+version: 1.0
+main: me.alexxxychep.backbonebase.Main
+api-version: '1.17'
+commands:
