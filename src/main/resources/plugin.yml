@@ -1,4 +1,4 @@
-name: BackboneHub
+name: BackboneBase
 version: 1.0
 main: me.alexxxychep.backbonebase.Main
 api-version: '1.17'
